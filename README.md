@@ -1,2 +1,52 @@
 # todo-list-app
-Simple and responsive task management web app using JavaScript.
+```md
+# ✅ Todo List App
+
+A simple and responsive Todo List web application built using HTML, CSS, and JavaScript.
+
+This application helps users organize daily tasks efficiently using an interactive task management system.
+
+---
+
+## 🚀 Features
+
+- Add new tasks
+- Delete completed tasks
+- Responsive design
+- Easy-to-use interface
+- Lightweight application
+- Beginner-friendly project
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+(Add screenshot here)
+
+### 📝 Task Management
+(Add screenshot here)
+
+---
+
+## 🌐 Live Demo
+
+(Add deployed project link here)
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+├── index.html
+├── style.css
+└── script.js
