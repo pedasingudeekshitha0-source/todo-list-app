@@ -50,3 +50,12 @@ src/
 ├── index.html
 ├── style.css
 └── script.js
+Future Improvements
+Local storage support
+Task priority system
+Due date reminders
+Dark mode support
+User authentication
+👩‍💻 Author
+Deekshitha Pedasingu
+GitHub: https://github.com/pedasingudeekshitha0-source⁠�
